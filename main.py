@@ -1,1 +1,2 @@
-print("hola")
+#Datos primitivos
+
